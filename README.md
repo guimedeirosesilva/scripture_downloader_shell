@@ -1,12 +1,11 @@
-# Welcome to Wav Scripture Downloader
+# Welcome to Scripture Downloader (SHELL)
 
 ### Greetings
 This is a simple **console app** that downloads specific wav files for bible verses reading found on jw.org in **Portuguese**.
 
 ### Setup
 This app uses the module **PyDub** for audio manipulation. **PyDub**, in turn, uses the **FFMPEG** library behind the curtains. **So, in order for the __"Scripture Downloader"__ to work you need to have the FFMPEG library installed.** 
-If you are on **Windows**, simply downloading the files will work, because it contains the FFMPEG .exe files needed in order to run the app. But, if you do not want to download the .exe files, you will need to install the FFMPEG library.
-But, if you are running this app in another enviroment (Linux or iOS) simply downloading the code above will **NOT** do the trick. 
+So simply downloading the code above will **NOT** do the trick.
 
 Please follow the instructions to install the FFMPEG Library: https://phoenixnap.com/kb/ffmpeg-windows
 You can download the FFMPEG Library on https://ffmpeg.org/download.html
